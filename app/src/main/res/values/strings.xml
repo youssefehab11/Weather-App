@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="new_york">New York</string>
+    <string name="london">London</string>
+    <string name="hint">Search for your location</string>
+    <string name="find_location">Find Location</string>
+    <string name="cities">Cities</string>
+    <string name="add_city">Add City</string>
+    <string name="today">Today</string>
+    <string name="date">19–2–2021</string>
+    <string name="rainy_shower">Rainy Shower</string>
+    <string name="speed">19 %s</string>
+    <string name="cloud_percentage">75 %s</string>
+    <string name="rain_percentage">85 %s</string>
+    <string name="next_days">Next Days</string>
+    <string name="comfort_level">Comfort Level</string>
+    <string name="humidity">Humidity</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="uv_index">UV Index</string>
+    <string name="sun_rise">Sunrise</string>
+    <string name="sun_set">Sunset</string>
+    <string name="sun_rise_sun_set">Sunrise and sunset</string>
+    <string name="wind">Wind</string>
+    <string name="direction">Direction</string>
+    <string name="speed_text">Speed</string>
+    <string name="settings">Setting</string>
+    <string name="map">Map</string>
+</resources>
